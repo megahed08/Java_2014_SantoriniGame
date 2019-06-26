@@ -1,0 +1,2 @@
+This Repository contains the Java code for a Java project in my bachelor degree,
+the Assignment was to implement a Game called Santorini using Java.
